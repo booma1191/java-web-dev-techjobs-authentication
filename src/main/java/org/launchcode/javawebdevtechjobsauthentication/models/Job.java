@@ -54,4 +54,5 @@ public class Job extends AbstractEntity{
     public String toString() {
         return name;
     }
+
 }
